@@ -8,8 +8,6 @@
 
 ## Python과 라이브러리 설치 안내
 
-インストール方法はOSごとに次を参考にしてください。
-
 - [Windows10](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/windows10.md)
 - [MacOS](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/macos.md)
 - [Ubuntu16](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/ubuntu16.md)
