@@ -17,3 +17,6 @@
 - [Pythonの基本](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/python.ipynb)
 - [NumPyの使い方](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/numpy.ipynb)
 - [Pandasの使い方](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/pandas.ipynb)
+
+## 한빛아카데미 - 누구나 파이썬 통계분석, 타니아이 히로키 지음, 츠지 신고 감수, 권기태 옯김
+- 한빛아카데미의 자료실의 소스코드를 다운받아 복습에 사용했습니다.
